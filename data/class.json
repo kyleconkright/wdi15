@@ -1,0 +1,524 @@
+[
+		{
+			"id": "U035X1F2M",
+			"nme": "taylorhiggins",
+			"ral_name": "Taylor Higgins",
+			"pofile": {
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-10/3378766477_a159a97a9772ebd251a5_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-10/3378766477_a159a97a9772ebd251a5_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-10/3378766477_a159a97a9772ebd251a5_original.jpg",
+				"first_name": "Taylor",
+				"last_name": "Higgins",
+				"phone": "",
+				"real_name": "Taylor Higgins",
+				"real_name_normalized": "Taylor Higgins",
+				"email": "taylorh@generalassemb.ly"
+			}
+		},
+		{
+			"id": "U037TCUDM",
+			"name": "matfallows",
+			"real_name": "Mathieu Fallows",
+			"profile": {
+				"first_name": "Mathieu",
+				"last_name": "Fallows",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4526943917_08ec79340499a5a82cc9_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4526943917_08ec79340499a5a82cc9_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4526943917_08ec79340499a5a82cc9_original.jpg",
+				"real_name": "Mathieu Fallows",
+				"real_name_normalized": "Mathieu Fallows",
+				"email": "mathieufallows@gmail.com"
+			}
+		},
+		{
+			"id": "U037UAUEL",
+			"name": "bojacobson",
+			"real_name": "Bo Jacobson",
+			"profile": {
+				"first_name": "Bo",
+				"last_name": "Jacobson",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-12/3395954358_c584e9a7cef29fd57c98_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-12/3395954358_c584e9a7cef29fd57c98_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-12/3395954358_c584e9a7cef29fd57c98_original.jpg",
+				"real_name": "Bo Jacobson",
+				"real_name_normalized": "Bo Jacobson",
+				"email": "bjacobson26@gmail.com"
+			}
+		},
+		{
+			"id": "U038V3FDA",
+			"name": "austinwlangley",
+			"real_name": "Austin Langley",
+			"profile": {
+				"first_name": "Austin",
+				"last_name": "Langley",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-15/4058184982_2e481bf904aba9402724_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-15/4058184982_2e481bf904aba9402724_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-15/4058184982_2e481bf904aba9402724_original.jpg",
+				"real_name": "Austin Langley",
+				"real_name_normalized": "Austin Langley",
+				"email": "austinwlangley@yahoo.com"
+			}
+		},
+		{
+			"id": "U03ASJBPG",
+			"name": "meredith",
+			"real_name": "Meredith Bryan",
+			"profile": {
+				"first_name": "Meredith",
+				"last_name": "Bryan",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-08/3364954053_046dea514f23d4e0612c_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-08/3364954053_046dea514f23d4e0612c_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-08/3364954053_046dea514f23d4e0612c_original.jpg",
+				"phone": "9495000507",
+				"real_name": "Meredith Bryan",
+				"real_name_normalized": "Meredith Bryan",
+				"email": "meredith.bryan@ga.co"
+			}
+		},
+		{
+			"id": "U03B5MMAG",
+			"name": "blaisethomas",
+			"real_name": "Blaise Thomas",
+			"profile": {
+				"first_name": "Blaise",
+				"last_name": "Thomas",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-15/3424269956_f6e5376b141b9f546ad4_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-15/3424269956_f6e5376b141b9f546ad4_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-15/3424269956_f6e5376b141b9f546ad4_original.jpg",
+				"real_name": "Blaise Thomas",
+				"real_name_normalized": "Blaise Thomas",
+				"email": "blaise.thomas@ga.co"
+			}
+		},
+		{
+			"id": "U03FQS26Z",
+			"name": "ksenia_smith",
+			"real_name": "Ksenia Smith",
+			"profile": {
+				"first_name": "Ksenia",
+				"last_name": "Smith",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-06/3645613461_15d4c75370a98ff9c91b_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-06/3645613461_15d4c75370a98ff9c91b_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-06/3645613461_15d4c75370a98ff9c91b_original.jpg",
+				"real_name": "Ksenia Smith",
+				"real_name_normalized": "Ksenia Smith",
+				"email": "smithkseniav@gmail.com"
+			}
+		},
+		{
+			"id": "U03FVD8SJ",
+			"name": "austinjuliuskim",
+			"real_name": "Austin Kim",
+			"profile": {
+				"first_name": "Austin",
+				"last_name": "Kim",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-28/4235168783_ac7e0b3e1d0a5bfd929e_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-28/4235168783_ac7e0b3e1d0a5bfd929e_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-28/4235168783_ac7e0b3e1d0a5bfd929e_original.jpg",
+				"phone": "6508230306",
+				"real_name": "Austin Kim",
+				"real_name_normalized": "Austin Kim",
+				"email": "austinjuliuskim@gmail.com"
+			}
+		},
+		{
+			"id": "U03FYA8FD",
+			"name": "nickaroo747",
+			"real_name": "Nicholas Mitchell",
+			"profile": {
+				"first_name": "Nicholas",
+				"last_name": "Mitchell",
+				"phone": "847.962.3011",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-28/5104777122_35db0e8a2756e8970959_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-28/5104777122_35db0e8a2756e8970959_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-28/5104777122_35db0e8a2756e8970959_original.jpg",
+				"real_name": "Nicholas Mitchell",
+				"real_name_normalized": "Nicholas Mitchell",
+				"email": "mitchell.nicholas@yahoo.com"
+			}
+		},
+		{
+			"id": "U03G3KLQ0",
+			"name": "austen.weinhart",
+			"real_name": "Austen Weinhart",
+			"profile": {
+				"first_name": "Austen",
+				"last_name": "Weinhart",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-17/4488426468_57621b8de29d465182e0_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-17/4488426468_57621b8de29d465182e0_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-17/4488426468_57621b8de29d465182e0_original.jpg",
+				"real_name": "Austen Weinhart",
+				"real_name_normalized": "Austen Weinhart",
+				"email": "austen.weinhart@gmail.com"
+			}
+		},
+		{
+			"id": "U03GETGS6",
+			"name": "ddowling",
+			"real_name": "Daniel Dowling",
+			"profile": {
+				"first_name": "Daniel",
+				"last_name": "Dowling",
+				"real_name": "Daniel Dowling",
+				"real_name_normalized": "Daniel Dowling",
+				"email": "ddowling30@gmail.com",
+				"ima,ge_32": "https://secure.gravatar.com/avatar/e0f3683708bf6b171c9140ea7f2f1900.jpg?s=32&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0015-32.png",
+				"image_72": "https://secure.gravatar.com/avatar/e0f3683708bf6b171c9140ea7f2f1900.jpg?s=72&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0015-72.png",
+				"image_192": "https://secure.gravatar.com/avatar/e0f3683708bf6b171c9140ea7f2f1900.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F272a%2Fimg%2Favatars%2Fava_0015.png"
+			}
+		},
+		{
+			"id": "U03J8UV7C",
+			"name": "khur",
+			"real_name": "Kyle Hurst",
+			"profile": {
+				"first_name": "Kyle",
+				"last_name": "Hurst",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4304799519_af710c1f43a6f40a40ed_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4304799519_af710c1f43a6f40a40ed_72.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4304799519_af710c1f43a6f40a40ed_original.jpg",
+				"real_name": "Kyle Hurst",
+				"real_name_normalized": "Kyle Hurst",
+				"email": "kylehurst42@gmail.com"
+			}
+		},
+		{
+			"id": "U03JC1B7A",
+			"name": "rushindrasinha",
+			"real_name": "Rushi Sinha",
+			"profile": {
+				"first_name": "Rushi",
+				"last_name": "Sinha",
+				"phone": "929 250 7850",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-05/3624069486_081fa80374c6408a9982_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-05/3624069486_081fa80374c6408a9982_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-05/3624069486_081fa80374c6408a9982_original.jpg",
+				"real_name": "Rushi Sinha",
+				"real_name_normalized": "Rushi Sinha",
+				"email": "igaape101@gmail.com"
+			}
+		},
+		{
+			"id": "U03JHTKDG",
+			"name": "cheeks",
+			"real_name": "Mikel Pacheco",
+			"profile": {
+				"first_name": "Mikel",
+				"last_name": "Pacheco",
+				"phone": "",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-16/4472124086_f7efca54855ce76b1612_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-16/4472124086_f7efca54855ce76b1612_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-16/4472124086_f7efca54855ce76b1612_original.jpg",
+				"real_name": "Mikel Pacheco",
+				"real_name_normalized": "Mikel Pacheco",
+				"email": "mikelnpacheco@gmail.com"
+			}
+		},
+		{
+			"id": "U03N17Y71",
+			"name": "fancykaocherpao",
+			"real_name": "Fancy Moua",
+			"profile": {
+				"first_name": "Fancy",
+				"last_name": "Moua",
+				"phone": "",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-03/3918883358_b7da9e9282e84e78fa2b_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-03/3918883358_b7da9e9282e84e78fa2b_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-03/3918883358_b7da9e9282e84e78fa2b_original.jpg",
+				"real_name": "Fancy Moua",
+				"real_name_normalized": "Fancy Moua",
+				"email": "mouafancy@gmail.com"
+			}
+		},
+		{
+			"id": "U03N3QRRP",
+			"name": "russdollinger",
+			"real_name": "Russ Dollinger",
+			"profile": {
+				"first_name": "Russ",
+				"last_name": "Dollinger",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-20/3786610534_28dd8ffe552744762028_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-20/3786610534_28dd8ffe552744762028_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-20/3786610534_28dd8ffe552744762028_original.jpg",
+				"phone": "",
+				"real_name": "Russ Dollinger",
+				"real_name_normalized": "Russ Dollinger",
+				"email": "russ.dollinger@ingenuitor.com"
+			}
+		},
+		{
+			"id": "U03N3VDSC",
+			"name": "socialight",
+			"real_name": "Carlos Cruz",
+			"profile": {
+				"first_name": "Carlos",
+				"last_name": "Cruz",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-23/4151270674_64fb5ce8c52917bbd5fa_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-23/4151270674_64fb5ce8c52917bbd5fa_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-23/4151270674_64fb5ce8c52917bbd5fa_original.jpg",
+				"real_name": "Carlos Cruz",
+				"real_name_normalized": "Carlos Cruz",
+				"email": "vcarloscruz@gmail.com"
+			}
+		},
+		{
+			"id": "U03N4573A",
+			"name": "abe_m",
+			"real_name": "Abe Menashy",
+			"profile": {
+				"first_name": "Abe",
+				"last_name": "Menashy",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-30/4701464313_7298e314b63d62506742_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-30/4701464313_7298e314b63d62506742_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-30/4701464313_7298e314b63d62506742_original.jpg",
+				"real_name": "Abe Menashy",
+				"real_name_normalized": "Abe Menashy",
+				"email": "abestbet1@gmail.com"
+			}
+		},
+		{
+			"id": "U03NM2D2T",
+			"name": "luckystripes",
+			"real_name": "Nancy Ma",
+			"profile": {
+				"first_name": "Nancy",
+				"last_name": "Ma",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-26/3848566337_bbc0f6d1db816243309a_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-26/3848566337_bbc0f6d1db816243309a_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-02-26/3848566337_bbc0f6d1db816243309a_original.jpg",
+				"real_name": "Nancy Ma",
+				"real_name_normalized": "Nancy Ma",
+				"email": "gluckystripes@gmail.com"
+			}
+		},
+		{
+			"id": "U03NMGSEH",
+			"name": "sarahlouise",
+			"real_name": "Sarah Kruberg",
+			"profile": {
+				"first_name": "Sarah",
+				"last_name": "Kruberg",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-20/4517237758_dc4bc5cbaed2f323283b_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-20/4517237758_dc4bc5cbaed2f323283b_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-20/4517237758_dc4bc5cbaed2f323283b_original.jpg",
+				"phone": "(310) 401-4093",
+				"real_name": "Sarah Kruberg",
+				"real_name_normalized": "Sarah Kruberg",
+				"email": "sarah.kruberg@gmail.com"
+			}
+		},
+		{
+			"id": "U03NVH4CV",
+			"name": "kyleconkright",
+			"real_name": "Kyle Conkright",
+			"profile": {
+				"first_name": "Kyle",
+				"last_name": "Conkright",
+				"phone": "",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-02/3898984193_2f4acabf2199c86b19c6_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-02/3898984193_2f4acabf2199c86b19c6_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-02/3898984193_2f4acabf2199c86b19c6_original.jpg",
+				"real_name": "Kyle Conkright",
+				"real_name_normalized": "Kyle Conkright",
+				"email": "kyleconkright@gmail.com"
+			}
+		},
+		{
+			"id": "U03NWCG7Q",
+			"name": "joey",
+			"real_name": "Joey Volpe",
+			"profile": {
+				"first_name": "Joey",
+				"last_name": "Volpe",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/3994896547_69f15e64088851ebd247_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/3994896547_69f15e64088851ebd247_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/3994896547_69f15e64088851ebd247_original.jpg",
+				"phone": "",
+				"real_name": "Joey Volpe",
+				"real_name_normalized": "Joey Volpe",
+				"email": "thevolpe@gmail.com"
+			}
+		},
+		{
+			"id": "U03Q0TT7F",
+			"name": "zgourley",
+			"real_name": "Zack Gourley",
+			"profile": {
+				"first_name": "Zack",
+				"last_name": "Gourley",
+				"real_name": "Zack Gourley",
+				"real_name_normalized": "Zack Gourley",
+				"email": "zackfrompedro@gmail.com",
+				"ima,ge_32": "https://secure.gravatar.com/avatar/158111f393087d9779b114e139fc196f.jpg?s=32&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0010-32.png",
+				"image_72": "https://secure.gravatar.com/avatar/158111f393087d9779b114e139fc196f.jpg?s=72&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0010-72.png",
+				"image_192": "https://secure.gravatar.com/avatar/158111f393087d9779b114e139fc196f.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0010.png"
+			}
+		},
+		{
+			"id": "U03RS471H",
+			"name": "alok",
+			"real_name": "Alok Somani",
+			"profile": {
+				"first_name": "Alok",
+				"last_name": "Somani",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-12/4029828067_62840bdbd3ac2551d5ae_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-12/4029828067_62840bdbd3ac2551d5ae_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-12/4029828067_62840bdbd3ac2551d5ae_original.jpg",
+				"real_name": "Alok Somani",
+				"real_name_normalized": "Alok Somani",
+				"email": "alok@aloksomani.com"
+			}
+		},
+		{
+			"id": "U03SAG7LM",
+			"name": "richardluo",
+			"real_name": "Richard Luo",
+			"profile": {
+				"first_name": "Richard",
+				"last_name": "Luo",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-17/4926457302_f87d7e10044044d031ea_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-17/4926457302_f87d7e10044044d031ea_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-17/4926457302_f87d7e10044044d031ea_original.jpg",
+				"real_name": "Richard Luo",
+				"real_name_normalized": "Richard Luo",
+				"email": "rluo0506@gmail.com"
+			}
+		},
+		{
+			"id": "U03SLT7SH",
+			"name": "gobindtandon",
+			"real_name": "Gobind Tandon",
+			"profile": {
+				"first_name": "Gobind",
+				"last_name": "Tandon",
+				"phone": "2132686270",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-28/4647932931_eab8f40bab8888f4ed3b_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-28/4647932931_eab8f40bab8888f4ed3b_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-28/4647932931_eab8f40bab8888f4ed3b_original.jpg",
+				"real_name": "Gobind Tandon",
+				"real_name_normalized": "Gobind Tandon",
+				"email": "gotandon@gmail.com"
+			}
+		},
+		{
+			"id": "U03UNF8HU",
+			"name": "c.ott",
+			"real_name": "Curtis Ott",
+			"profile": {
+				"first_name": "Curtis",
+				"last_name": "Ott",
+				"real_name": "Curtis Ott",
+				"real_name_normalized": "Curtis Ott",
+				"email": "ott_curtis@yahoo.com",
+				"ima,ge_32": "https://secure.gravatar.com/avatar/4dacaa1cba31981b24707fc7037ac7aa.jpg?s=32&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0017-32.png",
+				"image_72": "https://secure.gravatar.com/avatar/4dacaa1cba31981b24707fc7037ac7aa.jpg?s=72&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0017-72.png",
+				"image_192": "https://secure.gravatar.com/avatar/4dacaa1cba31981b24707fc7037ac7aa.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0017.png"
+			}
+		},
+		{
+			"id": "U03VB99E4",
+			"name": "mikewoo",
+			"profile": {
+				"first_name": "Mike",
+				"last_name": "Woo",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-26/4188069346_6c4628c24916e5ae486e_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-26/4188069346_6c4628c24916e5ae486e_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-26/4188069346_6c4628c24916e5ae486e_original.jpg",
+				"real_name": "Mike Woo",
+				"real_name_normalized": "Mike Woo",
+				"email": "woomike@gmail.com"
+			}
+		},
+		{
+			"id": "U03VBANGF",
+			"name": "long.huynh",
+			"profile": {
+				"first_name": "Long",
+				"last_name": "Huynh",
+				"real_name": "Long Huynh",
+				"real_name_normalized": "Long Huynh",
+				"email": "longh957@gmail.com",
+				"ima,ge_32": "https://secure.gravatar.com/avatar/4417a2756fa9907d1a9406d538f66b7d.jpg?s=32&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F272a%2Fimg%2Favatars%2Fava_0003-32.png",
+				"image_72": "https://secure.gravatar.com/avatar/4417a2756fa9907d1a9406d538f66b7d.jpg?s=72&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0003-72.png",
+				"image_192": "https://secure.gravatar.com/avatar/4417a2756fa9907d1a9406d538f66b7d.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0003.png"
+			}
+		},
+		{
+			"id": "U0401H8R4",
+			"name": "shawnrodriguez",
+			"real_name": "Shawn Rodriguez",
+			"profile": {
+				"first_name": "Shawn",
+				"last_name": "Rodriguez",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/4001603762_8beccba4f60985210c93_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/4001603762_8beccba4f60985210c93_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-10/4001603762_8beccba4f60985210c93_original.jpg",
+				"real_name": "Shawn Rodriguez",
+				"real_name_normalized": "Shawn Rodriguez",
+				"email": "shawn.rodriguez@generalassemb.ly"
+			}
+		},
+		{
+			"id": "U040RFEP3",
+			"name": "glenn.harris",
+			"real_name": "Glenn Harris",
+			"profile": {
+				"first_name": "Glenn",
+				"last_name": "Harris",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-14/4048600093_9b7fef9738d367f7366a_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-14/4048600093_9b7fef9738d367f7366a_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-03-14/4048600093_9b7fef9738d367f7366a_original.jpg",
+				"phone": "https://github.com/ga-students/WDI_LA_12-13/blob/master/06-week/Bootstrap.md",
+				"real_name": "Glenn Harris",
+				"real_name_normalized": "Glenn Harris",
+				"email": "glenn.harris@ga.co"
+			}
+		},
+		{
+			"id": "U040T3EDD",
+			"name": "jimmygarzon",
+			"real_name": "Jimmy Garzon",
+			"profile": {
+				"first_name": "Jimmy",
+				"last_name": "Garzon",
+				"real_name": "Jimmy Garzon",
+				"real_name_normalized": "Jimmy Garzon",
+				"email": "jimmy.garzon@ga.co",
+				"image_72": "https://secure.gravatar.com/avatar/9a87e55fd3cd31f0f83e3531f45a335f.jpg?s=72&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0004-72.png",
+				"image_192": "https://secure.gravatar.com/avatar/9a87e55fd3cd31f0f83e3531f45a335f.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F3654%2Fimg%2Favatars%2Fava_0004.png"
+			}
+		},
+		{
+			"id": "U0411BA30",
+			"name": "conradsze",
+			"real_name": "Conrad Sze",
+			"profile": {
+				"first_name": "Conrad",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4505264252_8b4da3fe931e5fbecfbf_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4505264252_8b4da3fe931e5fbecfbf_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-19/4505264252_8b4da3fe931e5fbecfbf_original.jpg",
+				"last_name": "Sze",
+				"phone": "3108800783",
+				"real_name": "Conrad Sze",
+				"real_name_normalized": "Conrad Sze",
+				"email": "conradsze@gmail.com"
+			}
+		},
+		{
+			"id": "U047CGJG8",
+			"name": "albert-park",
+			"real_name": "Albert Park",
+			"profile": {
+				"first_name": "Albert",
+				"last_name": "Park",
+				"image_72": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4305720589_1cae22dacf39fc8d547d_72.jpg",
+				"image_192": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4305720589_1cae22dacf39fc8d547d_192.jpg",
+				"image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-04-02/4305720589_1cae22dacf39fc8d547d_original.jpg",
+				"phone": "",
+				"real_name": "Albert Park",
+				"real_name_normalized": "Albert Park",
+				"email": "albe.park@gmail.com"
+			}
+		}
+	]

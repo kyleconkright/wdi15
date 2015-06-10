@@ -1,0 +1,22 @@
+
+<head>
+    <title>slack-historyv2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+
+    <div id="container">
+
+        {{#each slacks}}
+            {{> slack}}
+        {{/each}}
+
+    </div>
+
+</body>
+
+
+<template name="slack">
+    <p><b>{{name}}</b>: {{text}}</p>
+</template>
